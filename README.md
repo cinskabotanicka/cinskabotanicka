@@ -1,16 +1,18 @@
 ### Hi there 👋
+    I'm Martina
 
-<!--
-**cinskabotanicka/cinskabotanicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at Brno University of Technology.
 
-Here are some ideas to get you started:
+## 🌱 Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C
+- C#
+- C++
+- Python
+- PHP
+
+## 📫 Connect with Me
+
+- Email: hroma200@gmail.com
+
+Feel free to connect and reach out!
