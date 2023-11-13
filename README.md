@@ -1,5 +1,5 @@
-### Hi there 👋
-    I'm Martina
+# Hi there 👋
+##  I'm Martina
 
 🎓 I'm a student at Brno University of Technology.
 
